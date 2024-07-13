@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Projects\\AzureServiceBusTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB136C52-B4E7-4F89-80C7-88C3BE4A50BA}|AzureServiceBusTest.csproj|d:\\projects\\azureservicebustest\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DB136C52-B4E7-4F89-80C7-88C3BE4A50BA}|AzureServiceBusTest.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB136C52-B4E7-4F89-80C7-88C3BE4A50BA}|AzureServiceBusTest.csproj|d:\\projects\\azureservicebustest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB136C52-B4E7-4F89-80C7-88C3BE4A50BA}|AzureServiceBusTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Projects\\AzureServiceBusTest\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Projects\\AzureServiceBusTest\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-13T20:12:30.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\AzureServiceBusTest\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Projects\\AzureServiceBusTest\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T20:01:12.25Z",
               "EditorCaption": ""
